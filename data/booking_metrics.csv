@@ -1,0 +1,7 @@
+,0
+Mean CV Score,0.852
+CV Score Std,0.04399999999999999
+Test Set Accuracy,0.92
+Number of Features,4
+Top Feature,title_sentiment
+Top Feature Importance,0.5134265803554359
